@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="app.blade.php" type="AUTO_DETECTED" />
       <mapping pattern="voucher_nav.blade.php" type="AUTO_DETECTED" />
+      <mapping pattern="fill_delivery_address.blade.php" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
